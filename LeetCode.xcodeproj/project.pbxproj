@@ -16,6 +16,7 @@
 		A0C892C91D7549C1007ABB54 /* Longest Palindromic Substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892C81D7549C1007ABB54 /* Longest Palindromic Substring.cpp */; };
 		A0C892CB1D75545A007ABB54 /* ZigZag Conversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892CA1D75545A007ABB54 /* ZigZag Conversion.cpp */; };
 		A0C892CD1D757F5F007ABB54 /* Reverse Integer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892CC1D757F5F007ABB54 /* Reverse Integer.cpp */; };
+		A0C892CF1D75D2D1007ABB54 /* String to Integer (atoi).cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892CE1D75D2D1007ABB54 /* String to Integer (atoi).cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		A0C892C81D7549C1007ABB54 /* Longest Palindromic Substring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Longest Palindromic Substring.cpp"; sourceTree = "<group>"; };
 		A0C892CA1D75545A007ABB54 /* ZigZag Conversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "ZigZag Conversion.cpp"; sourceTree = "<group>"; };
 		A0C892CC1D757F5F007ABB54 /* Reverse Integer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Reverse Integer.cpp"; sourceTree = "<group>"; };
+		A0C892CE1D75D2D1007ABB54 /* String to Integer (atoi).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "String to Integer (atoi).cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				A0C892C81D7549C1007ABB54 /* Longest Palindromic Substring.cpp */,
 				A0C892CA1D75545A007ABB54 /* ZigZag Conversion.cpp */,
 				A0C892CC1D757F5F007ABB54 /* Reverse Integer.cpp */,
+				A0C892CE1D75D2D1007ABB54 /* String to Integer (atoi).cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				A0C892C71D754129007ABB54 /* Median of Two Sorted Arrays.cpp in Sources */,
 				A0C892C31D7428C8007ABB54 /* Add Two Numbers.cpp in Sources */,
 				A0C892C91D7549C1007ABB54 /* Longest Palindromic Substring.cpp in Sources */,
+				A0C892CF1D75D2D1007ABB54 /* String to Integer (atoi).cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
