@@ -15,6 +15,7 @@
 		A0C892C71D754129007ABB54 /* Median of Two Sorted Arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892C61D754129007ABB54 /* Median of Two Sorted Arrays.cpp */; };
 		A0C892C91D7549C1007ABB54 /* Longest Palindromic Substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892C81D7549C1007ABB54 /* Longest Palindromic Substring.cpp */; };
 		A0C892CB1D75545A007ABB54 /* ZigZag Conversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892CA1D75545A007ABB54 /* ZigZag Conversion.cpp */; };
+		A0C892CD1D757F5F007ABB54 /* Reverse Integer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892CC1D757F5F007ABB54 /* Reverse Integer.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		A0C892C61D754129007ABB54 /* Median of Two Sorted Arrays.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Median of Two Sorted Arrays.cpp"; sourceTree = "<group>"; };
 		A0C892C81D7549C1007ABB54 /* Longest Palindromic Substring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Longest Palindromic Substring.cpp"; sourceTree = "<group>"; };
 		A0C892CA1D75545A007ABB54 /* ZigZag Conversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "ZigZag Conversion.cpp"; sourceTree = "<group>"; };
+		A0C892CC1D757F5F007ABB54 /* Reverse Integer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Reverse Integer.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				A0C892C61D754129007ABB54 /* Median of Two Sorted Arrays.cpp */,
 				A0C892C81D7549C1007ABB54 /* Longest Palindromic Substring.cpp */,
 				A0C892CA1D75545A007ABB54 /* ZigZag Conversion.cpp */,
+				A0C892CC1D757F5F007ABB54 /* Reverse Integer.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				A0C892CB1D75545A007ABB54 /* ZigZag Conversion.cpp in Sources */,
 				A0C892B81D7406C4007ABB54 /* main.cpp in Sources */,
 				A0C892C11D741EB6007ABB54 /* Two Sum.cpp in Sources */,
+				A0C892CD1D757F5F007ABB54 /* Reverse Integer.cpp in Sources */,
 				A0C892C51D75239E007ABB54 /* Longest Substring Without Repeating Characters.cpp in Sources */,
 				A0C892BF1D741E56007ABB54 /* Perfect Rectangle.cpp in Sources */,
 				A0C892C71D754129007ABB54 /* Median of Two Sorted Arrays.cpp in Sources */,
@@ -267,6 +271,7 @@
 				A0C892BD1D7406C4007ABB54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
