@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		A0C892B81D7406C4007ABB54 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892B71D7406C4007ABB54 /* main.cpp */; };
+		A0C892BF1D741E56007ABB54 /* Perfect Rectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892BE1D741E56007ABB54 /* Perfect Rectangle.cpp */; };
+		A0C892C11D741EB6007ABB54 /* Two Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892C01D741EB6007ABB54 /* Two Sum.cpp */; };
+		A0C892C31D7428C8007ABB54 /* Add Two Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892C21D7428C8007ABB54 /* Add Two Numbers.cpp */; };
+		A0C892C51D75239E007ABB54 /* Longest Substring Without Repeating Characters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892C41D75239E007ABB54 /* Longest Substring Without Repeating Characters.cpp */; };
+		A0C892C71D754129007ABB54 /* Median of Two Sorted Arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892C61D754129007ABB54 /* Median of Two Sorted Arrays.cpp */; };
+		A0C892C91D7549C1007ABB54 /* Longest Palindromic Substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892C81D7549C1007ABB54 /* Longest Palindromic Substring.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +31,12 @@
 /* Begin PBXFileReference section */
 		A0C892B41D7406C4007ABB54 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0C892B71D7406C4007ABB54 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A0C892BE1D741E56007ABB54 /* Perfect Rectangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Perfect Rectangle.cpp"; sourceTree = "<group>"; };
+		A0C892C01D741EB6007ABB54 /* Two Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Two Sum.cpp"; sourceTree = "<group>"; };
+		A0C892C21D7428C8007ABB54 /* Add Two Numbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Add Two Numbers.cpp"; sourceTree = "<group>"; };
+		A0C892C41D75239E007ABB54 /* Longest Substring Without Repeating Characters.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Longest Substring Without Repeating Characters.cpp"; sourceTree = "<group>"; };
+		A0C892C61D754129007ABB54 /* Median of Two Sorted Arrays.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Median of Two Sorted Arrays.cpp"; sourceTree = "<group>"; };
+		A0C892C81D7549C1007ABB54 /* Longest Palindromic Substring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Longest Palindromic Substring.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,12 @@
 			isa = PBXGroup;
 			children = (
 				A0C892B71D7406C4007ABB54 /* main.cpp */,
+				A0C892BE1D741E56007ABB54 /* Perfect Rectangle.cpp */,
+				A0C892C01D741EB6007ABB54 /* Two Sum.cpp */,
+				A0C892C21D7428C8007ABB54 /* Add Two Numbers.cpp */,
+				A0C892C41D75239E007ABB54 /* Longest Substring Without Repeating Characters.cpp */,
+				A0C892C61D754129007ABB54 /* Median of Two Sorted Arrays.cpp */,
+				A0C892C81D7549C1007ABB54 /* Longest Palindromic Substring.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -119,6 +137,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				A0C892B81D7406C4007ABB54 /* main.cpp in Sources */,
+				A0C892C11D741EB6007ABB54 /* Two Sum.cpp in Sources */,
+				A0C892C51D75239E007ABB54 /* Longest Substring Without Repeating Characters.cpp in Sources */,
+				A0C892BF1D741E56007ABB54 /* Perfect Rectangle.cpp in Sources */,
+				A0C892C71D754129007ABB54 /* Median of Two Sorted Arrays.cpp in Sources */,
+				A0C892C31D7428C8007ABB54 /* Add Two Numbers.cpp in Sources */,
+				A0C892C91D7549C1007ABB54 /* Longest Palindromic Substring.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

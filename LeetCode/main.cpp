@@ -7,9 +7,9 @@
 //
 
 #include <iostream>
+#include "Perfect Rectangle.cpp"
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main() {
+    Solution solution;
     return 0;
 }
