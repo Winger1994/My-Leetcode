@@ -11,7 +11,7 @@
 
 using namespace std;
 
-class Solution {
+class SolutionRegular {
 public:
     int lengthOfLongestSubstring(string s) {
         unordered_map<char, int> map;
@@ -33,5 +33,34 @@ public:
         }
         max = max > (current - begin)? max : (current - begin);
         return max;
+    }
+};
+
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        int begin = 0, length = 0;
+        int maxBegin = 0, maxLen = 0;
+        int prev[256];
+        for (int i = 0; i < 256; i++)
+            prev[i] = -1;
+        for (int i = 0; i < s.length(); i++) {
+            if (prev[(int)s[i]] < begin) {
+                length++;
+            } else {
+                if (length > maxLen) {
+                    maxLen = length;
+                    maxBegin = begin;
+                }
+                length -= prev[(int)s[i]] - begin;
+                begin = prev[(int)s[i]] + 1;
+            }
+            prev[(int)s[i]] = i;
+        }
+        if (length > maxLen) {
+            maxLen = length;
+            maxBegin = begin;
+        }
+        return maxLen;
     }
 };
