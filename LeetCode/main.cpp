@@ -7,9 +7,10 @@
 //
 
 #include <iostream>
-#include "391 Perfect Rectangle.cpp"
+#include "13 Roman to Integer.cpp"
 
 int main() {
     Solution solution;
+    cout << solution.romanToInt("MCDLXXVI") << endl;
     return 0;
 }
