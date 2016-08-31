@@ -7,10 +7,9 @@
 //
 
 #include <iostream>
-#include "13 Roman to Integer.cpp"
+#include "211 Add and Search Word - Data structure design.cpp"
 
 int main() {
-    Solution solution;
-    cout << solution.romanToInt("MCDLXXVI") << endl;
+    WordDictionary::test();
     return 0;
 }

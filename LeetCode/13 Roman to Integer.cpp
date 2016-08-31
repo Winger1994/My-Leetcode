@@ -37,7 +37,7 @@ private:
 public:
     int romanToInt(string s) {
         int ret = 0;
-        ret += oneRomanToInt(romanParser(s, 'M', '*', '*'), 'M', 'E', 'E');
+        ret += oneRomanToInt(romanParser(s, 'M', '*', '*'), 'M', '*', '*');
         ret *= 10;
         ret += oneRomanToInt(romanParser(s, 'C', 'D', 'M'), 'C', 'D', 'M');
         ret *= 10;

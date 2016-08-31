@@ -23,6 +23,8 @@
 		A0C892D71D76939A007ABB54 /* 12 Integer to Roman.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892D61D76939A007ABB54 /* 12 Integer to Roman.cpp */; };
 		A0C892D91D769A54007ABB54 /* 13 Roman to Integer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892D81D769A54007ABB54 /* 13 Roman to Integer.cpp */; };
 		A0C892DB1D76A754007ABB54 /* 14 Longest Common Prefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892DA1D76A754007ABB54 /* 14 Longest Common Prefix.cpp */; };
+		A0C892DD1D76AB8D007ABB54 /* 15 3Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892DC1D76AB8D007ABB54 /* 15 3Sum.cpp */; };
+		A0C892E01D76AE1B007ABB54 /* 211 Add and Search Word - Data structure design.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892DE1D76AE1B007ABB54 /* 211 Add and Search Word - Data structure design.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +57,8 @@
 		A0C892D61D76939A007ABB54 /* 12 Integer to Roman.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "12 Integer to Roman.cpp"; sourceTree = "<group>"; };
 		A0C892D81D769A54007ABB54 /* 13 Roman to Integer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "13 Roman to Integer.cpp"; sourceTree = "<group>"; };
 		A0C892DA1D76A754007ABB54 /* 14 Longest Common Prefix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "14 Longest Common Prefix.cpp"; sourceTree = "<group>"; };
+		A0C892DC1D76AB8D007ABB54 /* 15 3Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "15 3Sum.cpp"; sourceTree = "<group>"; };
+		A0C892DE1D76AE1B007ABB54 /* 211 Add and Search Word - Data structure design.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "211 Add and Search Word - Data structure design.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				A0C892D61D76939A007ABB54 /* 12 Integer to Roman.cpp */,
 				A0C892D81D769A54007ABB54 /* 13 Roman to Integer.cpp */,
 				A0C892DA1D76A754007ABB54 /* 14 Longest Common Prefix.cpp */,
+				A0C892DC1D76AB8D007ABB54 /* 15 3Sum.cpp */,
+				A0C892DE1D76AE1B007ABB54 /* 211 Add and Search Word - Data structure design.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -165,6 +171,7 @@
 			files = (
 				A0C892D91D769A54007ABB54 /* 13 Roman to Integer.cpp in Sources */,
 				A0C892CB1D75545A007ABB54 /* 6 ZigZag Conversion.cpp in Sources */,
+				A0C892E01D76AE1B007ABB54 /* 211 Add and Search Word - Data structure design.cpp in Sources */,
 				A0C892D51D768224007ABB54 /* 11 Container With Most Water.cpp in Sources */,
 				A0C892D31D75E463007ABB54 /* 10 Regular Expression Matching.cpp in Sources */,
 				A0C892B81D7406C4007ABB54 /* main.cpp in Sources */,
@@ -174,6 +181,7 @@
 				A0C892CD1D757F5F007ABB54 /* 7 Reverse Integer.cpp in Sources */,
 				A0C892C51D75239E007ABB54 /* 3 Longest Substring Without Repeating Characters.cpp in Sources */,
 				A0C892D11D75E0B7007ABB54 /* 9 Palindrome Number.cpp in Sources */,
+				A0C892DD1D76AB8D007ABB54 /* 15 3Sum.cpp in Sources */,
 				A0C892BF1D741E56007ABB54 /* 391 Perfect Rectangle.cpp in Sources */,
 				A0C892C71D754129007ABB54 /* 4 Median of Two Sorted Arrays.cpp in Sources */,
 				A0C892C31D7428C8007ABB54 /* 2 Add Two Numbers.cpp in Sources */,
