@@ -22,6 +22,7 @@
 		A0C892D51D768224007ABB54 /* 11 Container With Most Water.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892D41D768224007ABB54 /* 11 Container With Most Water.cpp */; };
 		A0C892D71D76939A007ABB54 /* 12 Integer to Roman.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892D61D76939A007ABB54 /* 12 Integer to Roman.cpp */; };
 		A0C892D91D769A54007ABB54 /* 13 Roman to Integer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892D81D769A54007ABB54 /* 13 Roman to Integer.cpp */; };
+		A0C892DB1D76A754007ABB54 /* 14 Longest Common Prefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892DA1D76A754007ABB54 /* 14 Longest Common Prefix.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +54,7 @@
 		A0C892D41D768224007ABB54 /* 11 Container With Most Water.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "11 Container With Most Water.cpp"; sourceTree = "<group>"; };
 		A0C892D61D76939A007ABB54 /* 12 Integer to Roman.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "12 Integer to Roman.cpp"; sourceTree = "<group>"; };
 		A0C892D81D769A54007ABB54 /* 13 Roman to Integer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "13 Roman to Integer.cpp"; sourceTree = "<group>"; };
+		A0C892DA1D76A754007ABB54 /* 14 Longest Common Prefix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "14 Longest Common Prefix.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				A0C892D41D768224007ABB54 /* 11 Container With Most Water.cpp */,
 				A0C892D61D76939A007ABB54 /* 12 Integer to Roman.cpp */,
 				A0C892D81D769A54007ABB54 /* 13 Roman to Integer.cpp */,
+				A0C892DA1D76A754007ABB54 /* 14 Longest Common Prefix.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				A0C892D51D768224007ABB54 /* 11 Container With Most Water.cpp in Sources */,
 				A0C892D31D75E463007ABB54 /* 10 Regular Expression Matching.cpp in Sources */,
 				A0C892B81D7406C4007ABB54 /* main.cpp in Sources */,
+				A0C892DB1D76A754007ABB54 /* 14 Longest Common Prefix.cpp in Sources */,
 				A0C892C11D741EB6007ABB54 /* 1 Two Sum.cpp in Sources */,
 				A0C892D71D76939A007ABB54 /* 12 Integer to Roman.cpp in Sources */,
 				A0C892CD1D757F5F007ABB54 /* 7 Reverse Integer.cpp in Sources */,
