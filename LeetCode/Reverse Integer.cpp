@@ -11,7 +11,7 @@
 
 class Solution {
 private:
-    
+
     int reversePositive(int x) {
         int num, ret = 0;
         while (x > 0) {
@@ -26,9 +26,9 @@ private:
         }
         return ret;
     }
-    
+
 public:
-    
+
     int reverse(int x) {
         if (x == 0)
             return 0;
@@ -37,5 +37,5 @@ public:
         else
             return -reversePositive(-x);
     }
-    
+
 };
