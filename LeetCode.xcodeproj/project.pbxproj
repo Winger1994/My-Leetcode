@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A036CF991D78153900A95825 /* 389 Find the Difference.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A036CF981D78153900A95825 /* 389 Find the Difference.cpp */; };
+		A036CF9B1D78181E00A95825 /* 85 Maximal Rectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A036CF9A1D78181E00A95825 /* 85 Maximal Rectangle.cpp */; };
 		A0C892B81D7406C4007ABB54 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892B71D7406C4007ABB54 /* main.cpp */; };
 		A0C892BF1D741E56007ABB54 /* 391 Perfect Rectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892BE1D741E56007ABB54 /* 391 Perfect Rectangle.cpp */; };
 		A0C892C11D741EB6007ABB54 /* 1 Two Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892C01D741EB6007ABB54 /* 1 Two Sum.cpp */; };
@@ -40,6 +42,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A036CF981D78153900A95825 /* 389 Find the Difference.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "389 Find the Difference.cpp"; sourceTree = "<group>"; };
+		A036CF9A1D78181E00A95825 /* 85 Maximal Rectangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "85 Maximal Rectangle.cpp"; sourceTree = "<group>"; };
 		A0C892B41D7406C4007ABB54 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0C892B71D7406C4007ABB54 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A0C892BE1D741E56007ABB54 /* 391 Perfect Rectangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "391 Perfect Rectangle.cpp"; sourceTree = "<group>"; };
@@ -109,6 +113,8 @@
 				A0C892DA1D76A754007ABB54 /* 14 Longest Common Prefix.cpp */,
 				A0C892DC1D76AB8D007ABB54 /* 15 3Sum.cpp */,
 				A0C892DE1D76AE1B007ABB54 /* 211 Add and Search Word - Data structure design.cpp */,
+				A036CF981D78153900A95825 /* 389 Find the Difference.cpp */,
+				A036CF9A1D78181E00A95825 /* 85 Maximal Rectangle.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -173,9 +179,11 @@
 				A0C892CB1D75545A007ABB54 /* 6 ZigZag Conversion.cpp in Sources */,
 				A0C892E01D76AE1B007ABB54 /* 211 Add and Search Word - Data structure design.cpp in Sources */,
 				A0C892D51D768224007ABB54 /* 11 Container With Most Water.cpp in Sources */,
+				A036CF9B1D78181E00A95825 /* 85 Maximal Rectangle.cpp in Sources */,
 				A0C892D31D75E463007ABB54 /* 10 Regular Expression Matching.cpp in Sources */,
 				A0C892B81D7406C4007ABB54 /* main.cpp in Sources */,
 				A0C892DB1D76A754007ABB54 /* 14 Longest Common Prefix.cpp in Sources */,
+				A036CF991D78153900A95825 /* 389 Find the Difference.cpp in Sources */,
 				A0C892C11D741EB6007ABB54 /* 1 Two Sum.cpp in Sources */,
 				A0C892D71D76939A007ABB54 /* 12 Integer to Roman.cpp in Sources */,
 				A0C892CD1D757F5F007ABB54 /* 7 Reverse Integer.cpp in Sources */,

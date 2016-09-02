@@ -7,9 +7,11 @@
 //
 
 #include <iostream>
-#include "211 Add and Search Word - Data structure design.cpp"
+// #include "211 Add and Search Word - Data structure design.cpp"
+#include "85 Maximal Rectangle.cpp"
 
 int main() {
-    WordDictionary::test();
+    // WordDictionary::test();
+    Solution::test();
     return 0;
 }
