@@ -8,10 +8,11 @@
 
 #include <iostream>
 // #include "211 Add and Search Word - Data structure design.cpp"
-#include "85 Maximal Rectangle.cpp"
+// #include "85 Maximal Rectangle.cpp"
+#include "214 Shortest Palindrome.cpp"
 
-int main() {
+int main(int argc, char **argv) {
     // WordDictionary::test();
-    Solution::test();
+    Solution::test(argv[1]);
     return 0;
 }
