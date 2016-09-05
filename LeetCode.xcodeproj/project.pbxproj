@@ -10,6 +10,8 @@
 		A036CF991D78153900A95825 /* 389 Find the Difference.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A036CF981D78153900A95825 /* 389 Find the Difference.cpp */; };
 		A036CF9B1D78181E00A95825 /* 85 Maximal Rectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A036CF9A1D78181E00A95825 /* 85 Maximal Rectangle.cpp */; };
 		A036CF9D1D795B9200A95825 /* 214 Shortest Palindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A036CF9C1D795B9200A95825 /* 214 Shortest Palindrome.cpp */; };
+		A0787F3C1D7DBADC00A2109E /* 383 Ransom Note.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0787F3B1D7DBADC00A2109E /* 383 Ransom Note.cpp */; };
+		A0787F3E1D7DBC4B00A2109E /* 71 Simplify Path.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0787F3D1D7DBC4B00A2109E /* 71 Simplify Path.cpp */; };
 		A0C892B81D7406C4007ABB54 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892B71D7406C4007ABB54 /* main.cpp */; };
 		A0C892BF1D741E56007ABB54 /* 391 Perfect Rectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892BE1D741E56007ABB54 /* 391 Perfect Rectangle.cpp */; };
 		A0C892C11D741EB6007ABB54 /* 1 Two Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892C01D741EB6007ABB54 /* 1 Two Sum.cpp */; };
@@ -46,6 +48,8 @@
 		A036CF981D78153900A95825 /* 389 Find the Difference.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "389 Find the Difference.cpp"; sourceTree = "<group>"; };
 		A036CF9A1D78181E00A95825 /* 85 Maximal Rectangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "85 Maximal Rectangle.cpp"; sourceTree = "<group>"; };
 		A036CF9C1D795B9200A95825 /* 214 Shortest Palindrome.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "214 Shortest Palindrome.cpp"; sourceTree = "<group>"; };
+		A0787F3B1D7DBADC00A2109E /* 383 Ransom Note.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "383 Ransom Note.cpp"; sourceTree = "<group>"; };
+		A0787F3D1D7DBC4B00A2109E /* 71 Simplify Path.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "71 Simplify Path.cpp"; sourceTree = "<group>"; };
 		A0C892B41D7406C4007ABB54 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0C892B71D7406C4007ABB54 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A0C892BE1D741E56007ABB54 /* 391 Perfect Rectangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "391 Perfect Rectangle.cpp"; sourceTree = "<group>"; };
@@ -118,6 +122,8 @@
 				A036CF981D78153900A95825 /* 389 Find the Difference.cpp */,
 				A036CF9A1D78181E00A95825 /* 85 Maximal Rectangle.cpp */,
 				A036CF9C1D795B9200A95825 /* 214 Shortest Palindrome.cpp */,
+				A0787F3B1D7DBADC00A2109E /* 383 Ransom Note.cpp */,
+				A0787F3D1D7DBC4B00A2109E /* 71 Simplify Path.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -184,6 +190,7 @@
 				A0C892D51D768224007ABB54 /* 11 Container With Most Water.cpp in Sources */,
 				A036CF9D1D795B9200A95825 /* 214 Shortest Palindrome.cpp in Sources */,
 				A036CF9B1D78181E00A95825 /* 85 Maximal Rectangle.cpp in Sources */,
+				A0787F3C1D7DBADC00A2109E /* 383 Ransom Note.cpp in Sources */,
 				A0C892D31D75E463007ABB54 /* 10 Regular Expression Matching.cpp in Sources */,
 				A0C892B81D7406C4007ABB54 /* main.cpp in Sources */,
 				A0C892DB1D76A754007ABB54 /* 14 Longest Common Prefix.cpp in Sources */,
@@ -197,6 +204,7 @@
 				A0C892BF1D741E56007ABB54 /* 391 Perfect Rectangle.cpp in Sources */,
 				A0C892C71D754129007ABB54 /* 4 Median of Two Sorted Arrays.cpp in Sources */,
 				A0C892C31D7428C8007ABB54 /* 2 Add Two Numbers.cpp in Sources */,
+				A0787F3E1D7DBC4B00A2109E /* 71 Simplify Path.cpp in Sources */,
 				A0C892C91D7549C1007ABB54 /* 5 Longest Palindromic Substring.cpp in Sources */,
 				A0C892CF1D75D2D1007ABB54 /* 8 String to Integer (atoi).cpp in Sources */,
 			);
