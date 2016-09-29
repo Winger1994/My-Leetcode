@@ -15,6 +15,8 @@
 		A0787F3E1D7DBC4B00A2109E /* 71 Simplify Path.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0787F3D1D7DBC4B00A2109E /* 71 Simplify Path.cpp */; };
 		A0787F401D7DC77E00A2109E /* 226 Invert Binary Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0787F3F1D7DC77E00A2109E /* 226 Invert Binary Tree.cpp */; };
 		A0787F421D7E6B6900A2109E /* 321 Create Maximum Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0787F411D7E6B6900A2109E /* 321 Create Maximum Number.cpp */; };
+		A0AB14371D9D0A0800B7ED92 /* 31 Next Permutation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0AB14361D9D0A0800B7ED92 /* 31 Next Permutation.cpp */; };
+		A0AB14391D9D0F4300B7ED92 /* 123 Best Time to Buy and Sell Stock III.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0AB14381D9D0F4300B7ED92 /* 123 Best Time to Buy and Sell Stock III.cpp */; };
 		A0C892B81D7406C4007ABB54 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892B71D7406C4007ABB54 /* main.cpp */; };
 		A0C892BF1D741E56007ABB54 /* 391 Perfect Rectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892BE1D741E56007ABB54 /* 391 Perfect Rectangle.cpp */; };
 		A0C892C11D741EB6007ABB54 /* 1 Two Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C892C01D741EB6007ABB54 /* 1 Two Sum.cpp */; };
@@ -70,6 +72,8 @@
 		A0787F3D1D7DBC4B00A2109E /* 71 Simplify Path.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "71 Simplify Path.cpp"; sourceTree = "<group>"; };
 		A0787F3F1D7DC77E00A2109E /* 226 Invert Binary Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "226 Invert Binary Tree.cpp"; sourceTree = "<group>"; };
 		A0787F411D7E6B6900A2109E /* 321 Create Maximum Number.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "321 Create Maximum Number.cpp"; sourceTree = "<group>"; };
+		A0AB14361D9D0A0800B7ED92 /* 31 Next Permutation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "31 Next Permutation.cpp"; sourceTree = "<group>"; };
+		A0AB14381D9D0F4300B7ED92 /* 123 Best Time to Buy and Sell Stock III.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "123 Best Time to Buy and Sell Stock III.cpp"; sourceTree = "<group>"; };
 		A0C892B41D7406C4007ABB54 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0C892B71D7406C4007ABB54 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A0C892BE1D741E56007ABB54 /* 391 Perfect Rectangle.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "391 Perfect Rectangle.cpp"; sourceTree = "<group>"; };
@@ -177,6 +181,8 @@
 				A0CAE4311D9B68C6008BE463 /* 95 Unique Binary Search Trees II.cpp */,
 				A0CAE4331D9B94D5008BE463 /* 290 Word Pattern.cpp */,
 				A0CAE4351D9BA7AC008BE463 /* 295 Find Median from Data Stream.cpp */,
+				A0AB14361D9D0A0800B7ED92 /* 31 Next Permutation.cpp */,
+				A0AB14381D9D0F4300B7ED92 /* 123 Best Time to Buy and Sell Stock III.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -261,9 +267,11 @@
 				A0CAE4321D9B68C6008BE463 /* 95 Unique Binary Search Trees II.cpp in Sources */,
 				A0E89B461D903C1A006B7CF3 /* Steps.cpp in Sources */,
 				A0C892CD1D757F5F007ABB54 /* 7 Reverse Integer.cpp in Sources */,
+				A0AB14391D9D0F4300B7ED92 /* 123 Best Time to Buy and Sell Stock III.cpp in Sources */,
 				A0C892C51D75239E007ABB54 /* 3 Longest Substring Without Repeating Characters.cpp in Sources */,
 				A0E89B3E1D8FDA95006B7CF3 /* 207 Course Schedule.cpp in Sources */,
 				A0C892D11D75E0B7007ABB54 /* 9 Palindrome Number.cpp in Sources */,
+				A0AB14371D9D0A0800B7ED92 /* 31 Next Permutation.cpp in Sources */,
 				A0C892DD1D76AB8D007ABB54 /* 15 3Sum.cpp in Sources */,
 				A0E89B481D9195DD006B7CF3 /* 82 Remove Duplicates from Sorted List II.cpp in Sources */,
 				A0CAE42C1D9A3775008BE463 /* 135 Candy.cpp in Sources */,
