@@ -15,6 +15,11 @@ using namespace std;
 // profit1[i] = max profit on day i if I sell
 // profit2[i] = max profit on day i if I do nothing
 
+// Interesting Topic: What if cooldown takes TWO days?
+// p1[i] = max(p1[i - 1] + prices[i] - prices[i - 1], p3[i - 1])
+// p2[i] = p1[i - 1]
+// p3[i] = max(p2[i - 1], p3[i - 1])
+
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
