@@ -1,6 +1,6 @@
 //
 //  26 Remove Duplicates from Sorted Array.cpp
-//  LeetCode
+//  LeetCode https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description
 //
 //  Created by 赵超 on 9/17/16.
 //  Copyright © 2016 赵超. All rights reserved.

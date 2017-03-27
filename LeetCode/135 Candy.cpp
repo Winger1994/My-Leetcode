@@ -24,7 +24,7 @@ public:
         }
         sort(ratingSort.begin(), ratingSort.end());
         vector<int> distribution(ratings.size(), 0);
-        int size = ratings.size();
+        int size = static_cast<int>(ratings.size());
         for (int r: ratingSort) {
             int lastPos = -1, lastValue = 0;
             for (int i = 0; i < size; i++) {
@@ -63,7 +63,7 @@ public:
 class Solution {
 public:
     int candy(vector<int> &ratings) {
-        int size=ratings.size();
+        int size = static_cast<int>(ratings.size());
         if (size <= 1)
             return size;
         vector<int> num(size, 1);

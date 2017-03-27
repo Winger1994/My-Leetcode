@@ -17,7 +17,15 @@
 // #include "68 Text Justification.cpp"
 // #include "290 Word Pattern.cpp"
 // #include "295 Find Median from Data Stream.cpp"
-#include "123 Best Time to Buy and Sell Stock III.cpp"
+// #include "123 Best Time to Buy and Sell Stock III.cpp"
+// #include "188 Best Time to Buy and Sell Stock IV.cpp"
+// #include "179 Largest Number.cpp"
+// #include "240 Search a 2D Matrix II.cpp"
+// #include "190 Reverse Bits.cpp"
+// #include "212 Word Search II.cpp"
+// #include "421 Maximum XOR of Two Numbers in an Array.cpp"
+// #include "368 Largest Divisible Subset.cpp"
+#include "76 Minimum Window Substring.cpp"
 
 int main(int argc, char **argv) {
     // WordDictionary::test();

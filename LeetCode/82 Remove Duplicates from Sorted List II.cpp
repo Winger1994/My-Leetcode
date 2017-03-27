@@ -7,12 +7,7 @@
 //
 
 #include <stdio.h>
-
-struct ListNode {
-    int val;
-    ListNode *next;
-    ListNode(int x) : val(x), next(NULL) {}
-};
+#include "ListNode.h"
 
 class Solution {
 public:

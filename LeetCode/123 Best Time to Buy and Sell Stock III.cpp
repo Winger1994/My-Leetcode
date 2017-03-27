@@ -49,7 +49,7 @@ private:
     }
 public:
     int maxProfit(vector<int>& prices) {
-        int size = prices.size();
+        int size = static_cast<int>(prices.size());
         if (size <= 1)
             return 0;
         DiffInfo top = maxDiff(prices, 0, size - 1);

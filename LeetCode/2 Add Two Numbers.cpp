@@ -7,16 +7,11 @@
 //
 
 #include <iostream>
+#include "ListNode.h"
 #define getval(l)   (l == NULL? 0 : l->val)
 #define nextNode(l) (l == NULL? NULL : l->next)
 
 using namespace std;
-
-struct ListNode {
-    int val;
-    ListNode *next;
-    ListNode(int x) : val(x), next(NULL) {}
-};
 
 class Solution {
 public:
